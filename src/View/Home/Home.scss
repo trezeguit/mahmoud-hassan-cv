@@ -1,0 +1,43 @@
+.mainContainer {
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+  height: 800px;
+}
+.header {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 150px;
+  border-radius: 0 0 40px 40px;
+  background-color: rgb(255, 166, 0);
+}
+.headerText {
+  font-family: "Comic Sans MS";
+  color: black;
+}
+.homeBody {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.bodyText {
+  color: white;
+  text-align: center;
+}
+.homeBtn {
+  font-size: x-large;
+  font-weight: bold;
+  background-color: rgb(255, 166, 0);
+  border-radius: 35px;
+  padding: 10px;
+  cursor: pointer;
+}
+.homeBtn :link {
+  text-decoration: none;
+  color: black !important;
+}

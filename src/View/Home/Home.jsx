@@ -11,7 +11,7 @@ const Home = () => {
       </div>
       <div className="homeBody">
         <h2 className="bodyText">
-          This WebSite help you to create amazing profile as CV
+          This WebSite help you to create amazing profile as CV.
         </h2>
         <h3 className="bodyText">
           Register with us with your Information and enjoy

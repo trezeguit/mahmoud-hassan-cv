@@ -7,7 +7,7 @@ const Home = () => {
   return (
     <div className="mainContainer">
       <div className="header">
-        <h1 className="headerText">Feel Free To Create Your CV</h1>
+        <h1 className="headerText">Feel Free To Create Your CV.</h1>
       </div>
       <div className="homeBody">
         <h2 className="bodyText">
